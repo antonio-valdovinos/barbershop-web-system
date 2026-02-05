@@ -1,39 +1,8 @@
-# Barbershop Web System | UX-Driven Fullstack
+# Barbershop Management System | Fullstack Web Application
 
 > **"A clean interface is like a good haircut: it changes how you see the world."**
 
-## The "User-First" Philosophy
-Inspired by the immersive menus of story-driven adventure games, I focused on:
-* **Visual Hierarchy:** Guiding the eye exactly where it needs to go.
-* **Clean Motion:** Built with **React** and **Tailwind CSS** for a snappy, modern feel.
-* **Responsive Soul:** Whether you're on a desktop or a phone, the experience remains premium.
-
-## Technical DNA
-This project was handcrafted on a **Manjaro Linux** environment, fueled by lo-fi beats and a focus on clean code.
-
-* **Frontend:** React.js (Vite) + Tailwind CSS.
-* **Backend:** Node.js & Express.
-* **Database:** MongoDB (Cloud Connectivity via Atlas).
-* **Tools:** Git, VS Code, and a lot of terminal debugging.
-
----
-
-## Getting Started
-
-1. **Clone the vibes:**
-   `git clone https://github.com/antonio-valdovinos/barbershop-web-system.git`
-
-2. **Backend Setup:**
-   `cd backend && npm install && npm run dev`
-
-3. **Frontend Setup:**
-   `cd frontend && npm install && npm run dev`
-
-*Don't forget to set up your `.env` for the MongoDB connection!*
-
----
-
-[LinkedIn](https://linkedin.com/in/antonio-valdovinos) | [Portfolio](https://antoniovaldovinos.dev) | [Email](mailto:antoniovaldovinos.dev@gmail.com)
+This is a fullstack solution designed to manage barbershop operations, focusing on a clean administrative flow and a refined user interface.
 
 ## Interface Preview
 
@@ -42,3 +11,38 @@ This project was handcrafted on a **Manjaro Linux** environment, fueled by lo-fi
 | ![Home](Preview/Home.png) | ![Appointments](Preview/Appointments.png) |
 
 > **Design Insight:** Visual hierarchy and accessibility were prioritized to ensure a seamless and aesthetic user experience.
+
+## Core Technical Features
+* **Appointment Management:** Implementation of a complete system for scheduling and tracking services in real-time.
+* **Data Persistence:** Full integration with **MongoDB Atlas** for secure and scalable NoSQL data storage.
+* **Administrative Control:** Backend logic designed to handle client records, service catalogs, and scheduling availability.
+* **UI/UX Focus:** Strategic use of visual hierarchy and responsive design via **Tailwind CSS** to ensure accessibility across all devices.
+
+## Technical DNA
+This project was handcrafted on a **Manjaro Linux** environment, fueled by lo-fi beats and a focus on clean code.
+
+* **Frontend:** React.js (Vite) and Tailwind CSS.
+* **Backend:** Node.js and Express.
+* **Database:** MongoDB (NoSQL) with cloud connectivity via Atlas.
+* **Tools:** Git, VS Code, and terminal-based debugging.
+
+---
+
+## Getting Started
+
+1. **Clone the repository:**
+   `git clone https://github.com/antonio-valdovinos/barbershop-web-system.git`
+
+2. **Backend Setup:**
+   `cd backend && npm install && npm run dev`
+
+3. **Frontend Setup:**
+   `cd frontend && npm install && npm run dev`
+
+*Note: A `.env` file is required in the backend directory to configure MongoDB connection strings.*
+
+---
+
+**Jesus Antonio Valdovinos Mendez**
+Computer Systems Engineering Student | Focused on Web Development & UI/UX
+[LinkedIn](https://linkedin.com/in/antonio-valdovinos) | [Email](mailto:antoniovaldovinos.dev@gmail.com)
