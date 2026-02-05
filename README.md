@@ -35,7 +35,7 @@ This project was handcrafted on a **Manjaro Linux** environment, fueled by lo-fi
 
 [LinkedIn](https://linkedin.com/in/antonio-valdovinos) | [Portfolio](https://antoniovaldovinos.dev) | [Email](mailto:antoniovaldovinos.dev@gmail.com)
 
-## 🖼️ Interface Preview
+## Interface Preview
 
 | Landing Page | Appointments Management |
 | :---: | :---: |
