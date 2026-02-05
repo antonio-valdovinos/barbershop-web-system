@@ -1,4 +1,4 @@
-# 💈 Barbershop Web System | UX-Driven Fullstack
+# Barbershop Web System | UX-Driven Fullstack
 
 > **"A clean interface is like a good haircut: it changes how you see the world."**
 
