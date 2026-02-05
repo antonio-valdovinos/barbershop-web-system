@@ -34,3 +34,11 @@ This project was handcrafted on a **Manjaro Linux** environment, fueled by lo-fi
 ---
 
 [LinkedIn](https://linkedin.com/in/antonio-valdovinos) | [Portfolio](https://antoniovaldovinos.dev) | [Email](mailto:antoniovaldovinos.dev@gmail.com)
+
+## 🖼️ Interface Preview
+
+| Landing Page | Appointments Management |
+| :---: | :---: |
+| ![Home](Preview/Home.png) | ![Appointments](Preview/Appointments.png) |
+
+> **Design Insight:** Visual hierarchy and accessibility were prioritized to ensure a seamless and aesthetic user experience.
